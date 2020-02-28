@@ -1,1 +1,0 @@
-CSS is the style of HTML. There is all practices of my web design.
